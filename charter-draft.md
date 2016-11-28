@@ -2,7 +2,7 @@
 
 ### 使命 (Mission)
 
-China Open Infrastructure Software Foundation，以下简称 COISF 或 COI，致力于促进和发展中国的新一代开源基础软件， COISF 的使命是：**促进中国下一代开源互联网基础软件生态系统的发展。**
+China Open Infrastructure Software Foundation，以下简称 COISF 或 COI，致力于促进和发展中国的新一代开源基础软件， COISF 的使命是：**促进中国下一代开源基础软件生态系统的发展。**
 
 新一代的开源基础设施需要具备以下的条件：
 
@@ -50,9 +50,13 @@ China Open Infrastructure Software Foundation，以下简称 COISF 或 COI，致
 
 ### 组织架构(Membership)
 
+#### 会员(Member)
+
+会员是基金会的核心贡献者和实际拥有者，仅能通过邀请加入。邀请由现有成员提议，并由现有成员集体投票决定。主要面向的是组织内的开源项目的重度使用者或者资深开发者，会员拥有 @coisf.org 的邮箱以及的 COISF 的相关商标使用权，另外对于旗下项目的 bug fix 和 feature request 有优先响应的权利。
+
 #### 核心技术委员会（Board）
 
-职责包括但不限于： 
+核心技术委员会由全体会员投票选举产生，原则上不超过 15 人。每年重选一次，候选人来自于会员。 职责包括但不限于： 
 
 * 维护组织的正常运转，协商制订年度和相关财务计划 
 
@@ -62,15 +66,9 @@ China Open Infrastructure Software Foundation，以下简称 COISF 或 COI，致
 
 * 重要技术方向把控及标准的制定
 
-委员会决议采用投票制，原则上 Board Members 不超过 15 人。每年组织一次重选从各个项目的 PMC Leader 提名，然后投票产生。如果人数不足以发起投票，则各个项目的 PMC Leader 自动进入核心技术委员会，同时为了平衡各方，参与的成员公司可以指派一人加入 Board，即使该公司没有项目, 新指派的成员，需要由原有 board 成员邀请，并且通过投票得到超过半数的 board 成员认可。另外为了体现这个是一个面向开发者的组织，Board Member 需要来自旗下项目的 PMC，如果该公司没有在组织旗下有项目，那么新的成员的技术能力需要得到 Board 成员的认可。
+#### **主席 (****Chairmen****)**
 
-#### **联席主席团 (****Chairmen****)**
-
-Board 推选产生主席 (Chairmen 常务 3 人，原则是尽量平衡各方的权利) 作为对外的权威发言人，上限 3 人，Board 中只有主席团能发起新的决议。任期是一年，主席团重选的机制会采用投票模式，重选时每个 PMC Leader 都可以提名 1 人，所有 PMC Leader 进行投票，但是同一个公司的选票的权重将是 n=这个公司的在 pmc leader 中的总人数 sqrt(n) / n，比如一个公司在 pmc leader 中有 3 人，则每个人的票数并不是1，而是 sqrt(3) / 3 = 0.57
-
-最后，取 Top 3 的候选人。
-
-为了加快早期的推进速度及减低试错的成本，第一任主席团作为原初主席团，拥有在一年之内重新调整章程的权力，不需要进入投票环节，这个权利在下一任主席团上任后自动失效。
+主席由Board 推选产生 (可由多人联席，上限 3 人)，作为对外的权威发言人。任期是一年，主席重选的机制会采用投票模式。
 
 #### 项目管理委员会（PMC）
 
@@ -83,10 +81,6 @@ Board 推选产生主席 (Chairmen 常务 3 人，原则是尽量平衡各方的
 #### PR及市场委员会（PR/Marketing Committee）
 
 负责 COISF 的市场推广活动，组织线下 Meetup 以及内容输出，规范 Artworks，IP 的使用组织官网和相关基础设施的日常维护和更新。由 Board 指派和管理。
-
-#### 会员 (Member)
-
-由 Board 邀请加入，主要面向的是组织内的开源项目的重度使用者（或公司）或者资深开发者，会员拥有 @coisf.org 的邮箱以及的 COISF 的相关商标使用权，另外对于旗下项目的 bug fix 和 feature request 有优先响应的权利。
 
 #### 荣誉会员 (Honor Member)
 
