@@ -50,7 +50,7 @@ China Open Infrastructure Software Foundation，以下简称 COISF 或 COI，致
 
 ### 组织架构(Membership)
 
-#### 会员(Member)
+#### 会员(Members)
 
 会员是基金会的核心贡献者和实际拥有者，仅能通过邀请加入。邀请由现有成员提议，并由现有成员集体投票决定。主要面向的是组织内的开源项目的重度使用者、资深开发者和组织的赞助商，会员拥有 @coisf.org 的邮箱以及的 COISF 的相关商标使用权，另外对于旗下项目的 bug fix 和 feature request 有优先响应的权利。
 
@@ -72,7 +72,7 @@ China Open Infrastructure Software Foundation，以下简称 COISF 或 COI，致
 
 #### 项目管理委员会（PMC）
 
-具体项目都会有一个 PMC 来负责组织开发者进行日常的项目开发，具体技术选型和走向和版本发布策略。项目的 PMC 在 Committer 中选出，各个项目的 PMC 推选一个 Leader 负责定期和 Board 汇报，顶级项目的 PMC Leader 会被邀请成为会员。
+具体项目都会有一个 PMC 来负责组织开发者进行日常的项目开发，具体技术选型和走向和版本发布策略。项目的 PMC 从 Committer 中选出，各个项目的 PMC 推选一个 Leader 负责定期和 Board 汇报，顶级项目的 PMC Leader 会被邀请成为会员。
 
 #### 提交者 （Committers）
 
@@ -82,7 +82,7 @@ China Open Infrastructure Software Foundation，以下简称 COISF 或 COI，致
 
 负责 COISF 的市场推广活动，组织线下 Meetup 以及内容输出，规范 Artworks，IP 的使用组织官网和相关基础设施的日常维护和更新。由 Board 指派和管理。
 
-#### 荣誉会员 (Honor Member)
+#### 荣誉会员 (Honor Members)
 
 为了鼓励大家的参与，*非物质*的贡献在 COISF 也是被认可的，鼓励那些为 COISF 的推广，基础设施维护，线下活动中做出贡献的个人。Member 拥有 COISF 的邮箱，并会在官网的 Honor Members 列表中出现。Honor Members 的提名由各个项目 PMC，PR/Marketing 委员会或 Board 提名，由 Board 表决授予 Honor Member 的称号。 
 
