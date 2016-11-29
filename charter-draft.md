@@ -10,9 +10,9 @@ China Open Infrastructure Software Foundation，以下简称 COISF 或 COI，致
 
 2. User Friendly：采用更现代的开发模式和部署方式，文档友好，业务开发者友好，监控友好。
 
-3. Open ：对贡献者友好，架构和选型上足够开放，尽量采用社区通用或事实标准组件，开发者能尽量无痛的参与进来增加新的特性。
+3. Open：对贡献者友好，架构和选型上足够开放，尽量采用社区通用或事实标准组件，开发者能尽量无痛的参与进来增加新的特性。
 
-4. Creative: 面向未来的设计，用更先进的技术解决现代的问题。
+4. Creative：面向未来的设计，用更先进的技术解决现代的问题。
 
 ### 职责 (Responsibilities)
 
@@ -26,7 +26,7 @@ China Open Infrastructure Software Foundation，以下简称 COISF 或 COI，致
 
 * 推动相关的基础软件标准的建立
 
-### 价值观(Values)
+### 价值观 (Values)
 
 **开放 (Openness)**
 
@@ -48,13 +48,13 @@ China Open Infrastructure Software Foundation，以下简称 COISF 或 COI，致
 
 我们必须保证技术的前沿性和创新性，把技术的创造力作为评价项目好坏的核心标准，鼓励在技术方案上形成有影响力的生态效应。
 
-### 组织架构(Membership)
+### 组织架构 (Membership)
 
 #### 会员(Member)
 
-会员是基金会的核心贡献者和实际拥有者，仅能通过邀请加入。邀请由现有成员提议，并由现有成员集体投票决定。主要面向的是组织内的开源项目的重度使用者、资深开发者和组织的赞助商，会员拥有 @coisf.org 的邮箱以及的 COISF 的相关商标使用权，另外对于旗下项目的 bug fix 和 feature request 有优先响应的权利。
+会员是基金会的核心贡献者和实际拥有者，仅能通过邀请加入。邀请由现有会员提议，并由现有会员集体投票决定。主要面向的是组织内的开源项目的重度使用者、资深开发者和组织的赞助商，会员拥有 @coisf.org 的邮箱以及 COISF 的相关商标使用权，另外对于旗下项目的 bug fix 和 feature request 有优先响应的权利。
 
-#### 核心技术委员会（Board）
+#### 核心技术委员会 (Board)
 
 核心技术委员会由全体会员投票选举产生，原则上不超过 15 人。每年重选一次，候选人来自于会员。 职责包括： 
 
@@ -68,25 +68,25 @@ China Open Infrastructure Software Foundation，以下简称 COISF 或 COI，致
 
 #### **主席 (****Chairmen****)**
 
-主席由Board 推选产生 (可由多人联席，上限 3 人)，作为对外的权威发言人。
+主席由 Board 推选产生 (可由多人联席，上限 3 人)，作为对外的权威发言人。
 
-#### 项目管理委员会（PMC）
+#### 项目管理委员会 (PMC)
 
 具体项目都会有一个 PMC 来负责组织开发者进行日常的项目开发，具体技术选型和走向和版本发布策略。各个项目的 PMC 委员会推选一个 Leader 负责定期和 Board 汇报。项目的 PMC 在 Committer 中推荐产生。
 
-#### 提交者 （Committers）
+#### 提交者 (Committers)
 
 实际的项目开发者，拥有项目的提交、合并主干分支的权限。由入选项目自发管理。
 
-#### PR及市场委员会（PR/Marketing Committee）
+#### PR及市场委员会 (PR/Marketing Committee)
 
 负责 COISF 的市场推广活动，组织线下 Meetup 以及内容输出，规范 Artworks，IP 的使用组织官网和相关基础设施的日常维护和更新。由 Board 指派和管理。
 
 #### 荣誉会员 (Honor Member)
 
-为了鼓励大家的参与，*非物质*的贡献在 COISF 也是被认可的，鼓励那些为 COISF 的推广，基础设施维护，线下活动中做出贡献的个人。Member 拥有 COISF 的邮箱，并会在官网的 Honor Members 列表中出现。Honor Members 的提名由各个项目 PMC，PR/Marketing 委员会或 Board 提名，由 Board 表决授予 Honor Member 的称号。 
+为了鼓励大家的参与，*非物质*的贡献在 COISF 也是被认可的，鼓励那些为 COISF 的推广，基础设施维护，线下活动中做出贡献的个人。Honor Member 拥有 @coisf.org 的邮箱，并会在官网的 Honor Member 列表中出现。Honor Member 由现有会员提议，并由现有会员集体投票决定的称号。 
 
-#### 赞助商 （Sponsors）
+#### 赞助商 (Sponsors)
 
 COISF 是一个非营利组织，任何第三方机构或个人都可以成为赞助商。COISF 欢迎及感谢一切形式的帮助。作为 Sponsor 可以推选一个代理人被邀请成为会员。但是，为了保证组织的公平性，反过来成为 Sponsor 并不会对项目的入选和已有项目的决策产生影响。赞助商的商标和 Logo 会出现在 COISF 的活动中，乃至专门的感谢环节，另外在 COISF 的官网会有明显的感谢页面。 
 
