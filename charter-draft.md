@@ -2,7 +2,7 @@
 
 ### 使命 (Mission)
 
-China Open Infrastructure Software Foundation，以下简称 COISF 或 COI，致力于促进和发展中国的新一代开源基础软件， COISF 的使命是：**促进中国下一代开源基础软件生态系统的发展。**
+China Open Infrastructure Software Foundation，以下简称 COISF 或 COI，致力于促进中国开源基础软件的发展。我们认为，一方面开源是软件开发的未来，能更好地促进创新与合作；另一方面未来几十年中国的基础软件必将蓬勃发展，并在世界范围内扮演重要角色。但当前国内有很多优秀的开源软件, 因为文化和语言的藩篱没能融入西方社区, 无法获得足够的关注与支持，导致发展缓慢，通过构建一个优秀的社区，甄选优秀的项目，促进其快速发展。 COISF 的使命是：**促进中国下一代开源基础软件生态系统的发展。**
 
 新一代的开源基础设施需要具备以下的条件：
 
@@ -72,7 +72,7 @@ China Open Infrastructure Software Foundation，以下简称 COISF 或 COI，致
 
 #### 项目管理委员会（PMC）
 
-具体项目都会有一个 PMC 来负责组织开发者进行日常的项目开发，具体技术选型和走向和版本发布策略。各个项目的 PMC 委员会推选一个 Leader 负责定期和 Board 汇报。项目的 PMC 在 Committer 中推荐产生。
+具体项目都会有一个 PMC 来负责组织开发者进行日常的项目开发，具体技术选型和走向和版本发布策略。项目的 PMC 在 Committer 中选出，各个项目的 PMC 推选一个 Leader 负责定期和 Board 汇报，顶级项目的 PMC Leader 会被邀请成为会员。
 
 #### 提交者 （Committers）
 
