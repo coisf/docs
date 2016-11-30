@@ -2,7 +2,7 @@
 
 ### 使命 (Mission)
 
-China Open Infrastructure Software Foundation，以下简称 COISF 或 COI，致力于促进和发展中国的新一代开源基础软件， COISF 的使命是：**促进中国下一代开源基础软件生态系统的发展。**
+China Open Infrastructure Software Foundation，以下简称 COISF 或 COI，致力于促进中国开源基础软件的发展。我们认为，一方面开源是软件开发的未来，能更好地促进创新与合作；另一方面未来几十年中国的基础软件必将蓬勃发展，并在世界范围内扮演重要角色。但当前国内有很多优秀的开源软件, 因为文化和语言的藩篱没能融入西方社区, 无法获得足够的关注与支持，导致发展缓慢。我们通过建设中国统一的基础软件开发社区，甄选优秀的项目加入，集中优势资源促进这些项目的快速发展与成熟。 COISF 的使命是：**促进中国下一代开源基础软件生态系统的发展。**
 
 新一代的开源基础设施需要具备以下的条件：
 
@@ -50,7 +50,7 @@ China Open Infrastructure Software Foundation，以下简称 COISF 或 COI，致
 
 ### 组织架构 (Membership)
 
-#### 会员(Member)
+#### 会员(Members)
 
 会员是基金会的核心贡献者和实际拥有者，仅能通过邀请加入。邀请由现有会员提议，并由现有会员集体投票决定。主要面向的是组织内的开源项目的重度使用者、资深开发者和组织的赞助商，会员拥有 @coisf.org 的邮箱以及 COISF 的相关商标使用权，另外对于旗下项目的 bug fix 和 feature request 有优先响应的权利。
 
@@ -72,7 +72,7 @@ China Open Infrastructure Software Foundation，以下简称 COISF 或 COI，致
 
 #### 项目管理委员会 (PMC)
 
-具体项目都会有一个 PMC 来负责组织开发者进行日常的项目开发，具体技术选型和走向和版本发布策略。各个项目的 PMC 委员会推选一个 Leader 负责定期和 Board 汇报。项目的 PMC 在 Committer 中推荐产生。
+具体项目都会有一个 PMC 来负责组织开发者进行日常的项目开发，具体技术选型和走向和版本发布策略。项目的 PMC 从 Committer 中选出，各个项目的 PMC 推选一个 Leader 负责定期和 Board 汇报，顶级项目的 PMC Leader 会被邀请成为会员。
 
 #### 提交者 (Committers)
 
@@ -82,7 +82,7 @@ China Open Infrastructure Software Foundation，以下简称 COISF 或 COI，致
 
 负责 COISF 的市场推广活动，组织线下 Meetup 以及内容输出，规范 Artworks，IP 的使用组织官网和相关基础设施的日常维护和更新。由 Board 指派和管理。
 
-#### 荣誉会员 (Honor Member)
+#### 荣誉会员 (Honor Members)
 
 为了鼓励大家的参与，*非物质*的贡献在 COISF 也是被认可的，鼓励那些为 COISF 的推广，基础设施维护，线下活动中做出贡献的个人。Honor Member 拥有 @coisf.org 的邮箱，并会在官网的 Honor Member 列表中出现。Honor Member 由现有会员提议，并由现有会员集体投票决定的称号。 
 
